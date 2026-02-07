@@ -20,6 +20,3 @@ Estou iniciando o aprendizado com:
 <img src="https://wallpaperaccess.com/full/2068758.jpg" width="120px" alt=linkedin-logo />
 
 
-[![Felipe Stats](https://github-readme-stats.vercel.app/api?username=FelipeAraujo2001)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAraujo2001)](https://github.com/anuraghazra/github-readme-stats)
